@@ -1,0 +1,1 @@
+# SECUREiNFO CTF (Mini Challenge)
