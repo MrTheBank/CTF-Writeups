@@ -1,0 +1,2 @@
+1. Zip password is the Plus Code of CYNIUS Cybertech and Consulting Co., Ltd.
+2. SHA512 Hash the dog and you get the flag.
